@@ -43,6 +43,7 @@
     "cart_upsells_collection": "best-selling",
     "cart_upsells_limit": 5,
     "cart_gift_upsell_product": "gift-wrap",
+    "search": true,
     "recently_viewed": true,
     "social_facebook": "#",
     "social_instagram": "#",
@@ -87,13 +88,8 @@
     "product_card_wishlist_color": "text-primary",
     "product_card_img_carousel_dark": false,
     "cart_img_border": "img-thumbnail",
-    "content_for_index": [],
-    "blocks": {
-      "14060646107696862457": {
-        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-        "disabled": false,
-        "settings": {}
-      }
-    }
+    "content_for_index": [
+
+    ]
   }
 }
