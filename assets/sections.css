@@ -91,7 +91,7 @@
   color: white;
 }
 
-.nav-desktop-menu .nav-item:hover {
+.nav-desktop-menu .nav-item:hover .nav-item.active {
   color: black;
   background-color: white;
   border-radius: 5px;
