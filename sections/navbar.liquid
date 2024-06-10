@@ -25,9 +25,9 @@
           <div class="row align-items-center">
             <div class="col-5">
               <ul class="nav flex-nowrap">
-                <li class="nav-item">
+                <li class="nav-item dropdown">
                   <a 
-                    class="nav-link nav-link-icon ms-n3"
+                    class="nav-link dropdown-toggle nav-link-icon ms-n3"
                     href="#offcanvas-menu" 
                     data-bs-toggle="offcanvas" 
                     aria-controls="offcanvas-menu"
@@ -36,6 +36,7 @@
                     {% render 'svg-icons', icon: 'menu' %}
                   </a>
                 </li>
+                
                 {% if shop.customer_accounts_enabled %}
                   <li class="nav-item">
                     <a 
