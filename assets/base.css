@@ -671,6 +671,10 @@ hr {
   vertical-align: 0.15rem;
 }
 
+.dropdown {
+  position: relative;
+}
+
 .dropdown-item {
   position: relative;
   font-size: 0.9rem;
