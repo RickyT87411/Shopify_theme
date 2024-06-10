@@ -87,14 +87,7 @@
 }
 
 .nav-desktop-menu .nav-item {
-  padding: 0 .75rem;
-  color: white;
-}
-
-.nav-desktop-menu .nav-item:hover {
-  color: black;
-  background-color: white;
-  border-radius: 5px;
+  padding: 0 .075rem;
 }
 
 .svg-icon-menu line {
