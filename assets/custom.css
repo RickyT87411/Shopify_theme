@@ -4,6 +4,5 @@
 
 .d-block {
   position: absolute;
-  /* background-color: rgb(200 198 198 / 50%); */
-  background-color: red;
+  background-color: rgb(200 198 198 / 50%);
 }
