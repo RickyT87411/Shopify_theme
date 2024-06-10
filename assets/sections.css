@@ -91,6 +91,11 @@
   color: white;
 }
 
+.nav-desktop-menu .nav-item:hover {
+  color: black;
+  background-color: white;
+}
+
 .svg-icon-menu line {
   opacity: 1;
   transform: rotate(0) translateY(0) translateX(0);
