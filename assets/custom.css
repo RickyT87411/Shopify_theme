@@ -1,3 +1,7 @@
 /* 
   Add here your own custom css styles
 */
+
+.d-block {
+  position: absolute;
+}
