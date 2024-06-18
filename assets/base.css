@@ -22,7 +22,10 @@
   margin-top: 70px;
 }
 
-
+.col-desktop-18 {
+  padding-right: 15%;
+  padding-left: 15%;
+}
 
 .title-border-bottom span {
   border-bottom: 1px solid rgba(var(--bs-body-color-rgb), 1);
