@@ -14,10 +14,9 @@
       "blocks": {
         "slide_Q4UPQq": {
           "type": "slide",
-          "disabled": true,
           "settings": {
-            "img_mobile": "shopify:\/\/shop_images\/Screen_Shot_2024-06-18_at_2.01.16_AM.png",
-            "img_desktop": "shopify:\/\/shop_images\/Screen_Shot_2024-06-18_at_2.01.16_AM.png",
+            "img_mobile": "shopify:\/\/shop_images\/imgpsh_fullsize_anim.png",
+            "img_desktop": "shopify:\/\/shop_images\/imgpsh_fullsize_anim.png",
             "overlay_color": "#000000",
             "overlay_opacity": 10,
             "overlay_blur": 2,
@@ -53,7 +52,6 @@
         "slide_Q4UPQq",
         "slide_TddqxQ"
       ],
-      "disabled": true,
       "settings": {
         "bg_color": "bg-body",
         "bg_opacity": 100,
