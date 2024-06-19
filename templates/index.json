@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "hero_carousel_CmDneU": {
@@ -6,8 +15,8 @@
         "slide_Q4UPQq": {
           "type": "slide",
           "settings": {
-            "img_mobile": "shopify:\/\/shop_images\/Image_3.png",
-            "img_desktop": "shopify:\/\/shop_images\/Image_3.png",
+            "img_mobile": "shopify:\/\/shop_images\/Screen_Shot_2024-06-18_at_2.01.16_AM.png",
+            "img_desktop": "shopify:\/\/shop_images\/Screen_Shot_2024-06-18_at_2.01.16_AM.png",
             "overlay_color": "#000000",
             "overlay_opacity": 10,
             "overlay_blur": 2,
@@ -22,6 +31,7 @@
         },
         "slide_TddqxQ": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "img_mobile": "shopify:\/\/shop_images\/Image_4.png",
             "img_desktop": "shopify:\/\/shop_images\/Image_4.png",
